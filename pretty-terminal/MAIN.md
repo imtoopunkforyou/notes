@@ -6,7 +6,7 @@ Also relevant for WSL2.
 
 ## Сommand-line system information tool
 The first step you need to do is install <b>command-line system information tool</b>.
-I use [neofetch](https://github.com/dylanaraps/neofetch-promo).
+I use [neofetch](https://github.com/dylanaraps/neofetch).
 
 <u>Steps:</u>
 1. `sudo apt update`
@@ -37,7 +37,7 @@ Let's configure:
     - `memory_unit="mib"` to `memory_unit="gib"`
     - `colors=(distro)` to `colors=(4 6 1 8 8 6)`
 
-After changes [neofetch](https://github.com/dylanaraps/neofetch-promo) look like this:
+After changes [neofetch](https://github.com/dylanaraps/neofetch) look like this:
     ![neofetch-after-configure](./static/neofetch-after-configure.png)
 
 The resulting configuration file can be [viewed here](#the-work-is-finished).
